@@ -1,0 +1,78 @@
+Need to ask quetions
+1) How linux m/c are to be taken in to domain aur how it is identified by the domain
+2) Need to ask about certificates
+------------------------------Priority and severity defects List----------
+
+1) Low Priority Low sevirity
+1)caption of the online help content, caption of the attribute name,
+3) some extra files are in the installer but it is not affecting the functionality.
+
+----------------
+High prority Low severity
+1) The online help contetnt of some attribute is not present or worng
+2)The installed date of the intaller is same for all the times even though time and date of installation is different for the different m/c
+3)The command by using that we are looking the version of the product is  showing balk value
+
+-----------------------
+
+3) Low prority and high severity:
+1)rare functionality fail issue occured 
+2)crash occured while fetching value of perticular variable under some perticular situation.(by code point of you at time multiple user access same browser and accessing same attribute value by diffeernt way crash occured at this point)
+3) Perticular command not working properly but it is rarely used.
+----------------------
+
+
+
+4) High priority and high severity:-
+1)crash ocuured during normal load and normal senario bez of memory leak , hanlde leak , issue.
+while fetching data.
+2) some Atrribute value shows incorrect value for the DST time zone
+3)multiple enries for the same database
+4)multiple situation are trigerring for the same scenarios
+5) situation not behaving properly even though formala satifies or tru for the current condition.
+6)HDC data prot on the portal is not working properly
+7) Data consitency and integratity checking.
+8)silent , remote localation fail
+9)upgrade and downgrade scenario fail
+
+-------------------------------------------------------------------------------------------------------------------
+
+IIS server 
+
+1) Low Priority Low sevirity
+1)caption of the online help content, caption of the attribute name,caption of attribute value
+3) some extra files are in the installer but it is not affecting the functionality.
+--------------------------------------------------------------------------------------------------------
+High prority Low severity
+1) The online help contetnt of some attribute is not present or worng
+2)The installed date of the intaller is same for all the times even though time and date of installation is different for the different m/c
+3)The command by using that we are looking the version of the product is  showing balk value.
+---------------------------------------------------------------------------------------------------------
+3) Low prority and high severity:
+1)rare functionality fail issue occured 
+2)crash occured while fetching value of perticular variable under some perticular situation.(by code point of you at time multiple user access same browser and accessing same attribute value by diffeernt way crash occured at this point)
+3) Perticular command not working properly but it is rarely used.
+4) registry entry will not get removed when prodcut get uninstalled
+5) 
+
+
+
+-------------------------------------------------------------------
+
+4) High priority and high severity:-
+
+4)The flow of the transaction is wrong
+5) The time stamp of the transaction is wrong( the time stamp shown on the topology arrow)
+6)Event are misssing for the perticular transactions.
+7)we were categorised syncronus events and asynchoronus events but at the run time events are (mismatched) misscategorised at the back end.
+8)The configuration panel by wich we are configuring file of dc collector is not working properly.
+like if we comment any method still the events are coming by that method.
+or if we uncomment any method still the evnt not comming by that method.
+9)some functionality of UI work for broser client but will not work for desktop client or result are different on browser client and desktop client.
+10)failed transaction date shows incorrect value and date.
+
+ 
+
+
+
+
